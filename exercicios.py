@@ -15,4 +15,4 @@ if parc_casa <= ret:
     print(f'A parcela é referente {porc :.2f}% do seu salario')
     print(f'Quantidade será de {qtd_parc} parcelas ou {qtd_ano:.0f} anos.')
 else:
-    print(f'O emprestimo foi negado a parcela de {parc_casa:.2f} excede os 30% do seu salario sendo {porc:.2f}% do seu salario.')
+    print(f'O emprestimo foi negado a parcela de {parc_casa:.2f} excedeu os 30% do seu salario sendo {porc:.2f}% do seu salario.')
