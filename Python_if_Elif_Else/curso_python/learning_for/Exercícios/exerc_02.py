@@ -1,6 +1,4 @@
 
-
-for contador in range (100):
-    contador = float(input("Digite um número: "))
-    contador = contador * 10
-    print(contador)
+num = int(input('Digite um numero: '))
+for contador in range (1, 11):
+    print(f'{num} x {contador} = {num*contador}')
