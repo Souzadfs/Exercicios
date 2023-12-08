@@ -6,4 +6,4 @@ for c in range(1, 7):
     soma = num + soma
     cont = cont +1
 
-print(f'{cont, soma}')    
+print(f'{cont, soma}')
